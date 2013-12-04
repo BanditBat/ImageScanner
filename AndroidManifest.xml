@@ -14,8 +14,7 @@
         android:label="@string/app_name" >
         <activity
             android:name="com.example.imagescanner.MainActivity"
-            android:label="@string/app_name"
-        	android:theme="@style/Theme.AppCompat.Light" >
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
